@@ -15,7 +15,7 @@ Data Analyst Intern @ Quantum Analytics
 - Projects completed for mastership and Certification
 
 ### PROJECTS
-1.  AIRFLIGHT DELAY
+ AIRFLIGHT DELAY
 **Recommended Analysis **
 1. How does the overall flight volume vary by month? By day of week? 
 2. What percentage of flights in experienced a departure delay in 2015? Among 
