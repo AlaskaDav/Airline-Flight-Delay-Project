@@ -14,8 +14,32 @@ Data Analyst Intern @ Quantum Analytics
 - Problem Solving Techniques
 - Projects completed for mastership and Certification
 
+
+
 ### PROJECTS
- AIRFLIGHT DELAY
+ AIRLINE FLIGHT DELAYS
+
+#### Description
+ This Record contains 5,000,000+ commercial airline flights in 2015, compiled for the U.S. DOT Air Travel Consumer Report. Each record represents a single flight, including the airline name, flight number, origin/destination airport and flight distance, as well as scheduled/actual departure and arrival times
+
+#### Data Source
+
+Airline FLight Data : The data sets used for the analysis includes; 
+- flights.csv: containing the number of flights in the country
+- airline.csv: contains the number of different airline
+- airports.csv: this file contains different e=airports and locatio within the country
+- cancellation_code.csv: contains the number of cancellation that occured within the perios of analysis.
+
+#### Tools Used 
+- Microsoft Excel: for easy access the contents of the file and understanding of the components of the data.{download here}
+- Powerquerry : To carry ETL process on the data
+- PowerBI: For visualization and creating reports
+
+#### Data Cleaning/Preparation
+In the initial data preparation process, the following process was performed
+1. Data loading and inspection
+2. Handling missing calues
+3. Data cleaning and formatting
  
  **Recommended Analysis **
 1. How does the overall flight volume vary by month? By day of week? 
