@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 My Data Analysis projects portfolio
 
 # DATA ANALYST 
@@ -29,7 +29,8 @@ weather? What % were due to the Airline/Carrier?
 
 Data Analysis Procedures:
 - Collected data through .csv files from MsExcel.
-- Uploading the data into PowerQuery for Cleaning and analysing the contents of the data, requested for data clarification and data validity.
+- Uploading the data into PowerQuery for Cleaning and analysing the contents of the data
+- Requested for data clarification and data validity.
 - Loaded the data into PowerBi for visualization and Presentation.
 
 
