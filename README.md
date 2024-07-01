@@ -65,6 +65,8 @@ weather? What % were due to the Airline/Carrier?
 - Uploading the data into PowerQuery for Cleaning and analysing the contents of the data
 - Requested for data clarification and data validity.
 - Loaded the data into PowerBi for visualization and Presentation.
+- Providing insights, presenting informations and advice.
+- Creating outstanding reports for user end understanding, borad of directors and shareholders.
 
 #### Results/Findings
 
