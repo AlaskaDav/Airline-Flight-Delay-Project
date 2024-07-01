@@ -31,7 +31,8 @@ Airline FLight Data : The data sets used for the analysis includes;
 - cancellation_code.csv: contains the number of cancellation that occured within the perios of analysis.
 
 #### Tools Used 
-- Microsoft Excel: for easy access the contents of the file and understanding of the components of the data.{download here}
+- Microsoft Excel: for easy access the contents of the file and understanding of the components of the data.
+    - [Download here](http://microsoft.com)
 - Powerquerry : To carry ETL process on the data
 - PowerBI: For visualization and creating reports
 
@@ -41,7 +42,7 @@ In the initial data preparation process, the following process was performed
 2. Handling missing calues
 3. Data cleaning and formatting
  
- **Recommended Analysis **
+#### Recommended Analysis
 1. How does the overall flight volume vary by month? By day of week? 
 2. What percentage of flights in experienced a departure delay in 2015? Among 
 those flights, what was the average delay time, in minutes? 
@@ -51,10 +52,13 @@ flights leaving from Boston (BOS) specifically?
 weather? What % were due to the Airline/Carrier? 
 5. Which airlines seem to be most and least reliable, in terms of on-time departure?
 
-Data Analysis Procedures:
+#### Data Analysis Procedures:
 - Collected data through .csv files from MsExcel.
 - Uploading the data into PowerQuery for Cleaning and analysing the contents of the data
 - Requested for data clarification and data validity.
 - Loaded the data into PowerBi for visualization and Presentation.
 
+#### Results/Findings
+The analysis results are summarized as follows;
+1. The total number of flights recorded within the period 
 
