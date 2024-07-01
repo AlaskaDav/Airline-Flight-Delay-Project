@@ -45,7 +45,7 @@ Airline FLight Data : The data sets used for the analysis includes;
 
 In the initial data preparation process, the following process was performed
 1. Data loading and inspection
-2. Handling missing calues
+2. Handling missing values
 3. Data cleaning and formatting
  
 #### Recommended Analysis
@@ -66,7 +66,7 @@ weather? What % were due to the Airline/Carrier?
 - Requested for data clarification and data validity.
 - Loaded the data into PowerBi for visualization and Presentation.
 - Providing insights, presenting informations and advice.
-- Creating outstanding reports for user end understanding, borad of directors and shareholders.
+- Creating outstanding reports for end user understanding, board of directors and shareholders.
 
 #### Results/Findings
 
