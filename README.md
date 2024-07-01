@@ -60,5 +60,12 @@ weather? What % were due to the Airline/Carrier?
 
 #### Results/Findings
 The analysis results are summarized as follows;
-1. The total number of flights recorded within the period 
+1. The total number of On-Time flights recorded during the period was 3.69millio(63.47%) while the delayed flight records 2.13million and Flight cancelled record was 89.88k
+2. The highest number of distance covered was July 2015 with a total of 520,718km, this distance was covered by southwest airline and the least distance covered was in February with 429,191km.
+3. There are four major reason for cancellation of flight out of which Weather condition has the highest cause with over 54% of the total percentage whereas security has no effect on the cancellation. This implies that security issues never created a threat to flight departure.
+4. The analysis also clearly shows that Southwest Airline Co. has the highest volume of flight engagement for the period.
+5. Among the days of tthe week, wednessday has the highest volume of flight departure, this could be as a result of the following:
+ -  Mid-week vacation or relaxation
+ -  Mid-week Flight Discount
+ -  Schedule of meetng for organization staffs. 
 
