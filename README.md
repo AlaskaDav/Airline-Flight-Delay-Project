@@ -84,5 +84,12 @@ The analysis results are summarized as follows;
 
 The used of 
 
+#### Limitations
+
+There was a difficulty in representing the insight from the data in periods, so, I had to create a Date table independently from the data and then built a relationship in the model table so as to present the report in a well organized periodic manner i.e Month reporting and Dayl)
+
+
+
+
 
 
