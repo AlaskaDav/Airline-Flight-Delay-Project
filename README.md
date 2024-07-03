@@ -37,8 +37,7 @@ Data Analyst Intern @ Quantum Analytics
 
  ![Airline Flight Home](https://github.com/AlaskaDav/Portfolio/assets/155531290/3e792361-13e8-419a-9469-2a465f8303f6)
 
-![Airline flight Report](https://github.com/AlaskaDav/Portfolio/assets/155531290/2b9112f4-c7cd-4f3e-9c7f-54391aea4815)
-
+![Airline flight Report](https://github.com/AlaskaDav/Portfolio/assets/155531290/185bfacd-5ce2-4c7c-8ea4-d758be020870)
 
 #### Data Source
 
