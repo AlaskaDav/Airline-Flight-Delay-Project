@@ -14,9 +14,16 @@ Data Analyst Intern @ Quantum Analytics
 - Structured Query language(POSTGRESQL and MSSQL)
 - Visualization Tools ( PowerBI and Tablue)
 - Problem Solving Techniques
-- Projects completed for mastership and Certification
+- Projects completion and Certification
 
+## Table of Content 
 
+- [Description](#description)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [ETL Processing](#etl-processing)
+- [Recommended Analysis](#recommended-analysis)
+- [Data Analysis Procedures](#data-analysis-procedures)
 
 ### PROJECTS
 
@@ -41,12 +48,17 @@ Airline FLight Data : The data sets used for the analysis includes;
 - Powerquerry : To carry ETL process on the data
 - PowerBI: For visualization and creating reports
 
-#### Data Cleaning/Preparation
+#### ETL Processing
 
 In the initial data preparation process, the following process was performed
-1. Data loading and inspection
-2. Handling missing values
-3. Data cleaning and formatting
+1. Data Extraction: extracting data files (.csv files) from Microsoft Excel into Powerquerry for cleaning and transformation
+2. Transformation process taken place involves:
+   - Removing duplicate values
+   - Removing null Values from the data
+   - Changing data types
+   - Removing empty rows and columns
+   - Creating  new columns
+3. Loading process involves loading the completely transformed and cleaned data into PowerBI to build dashboard for reporting and visualizations.
  
 #### Recommended Analysis
 
