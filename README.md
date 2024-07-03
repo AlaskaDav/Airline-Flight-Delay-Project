@@ -24,6 +24,7 @@ Data Analyst Intern @ Quantum Analytics
 - [ETL Processing](#etl-processing)
 - [Recommended Analysis](#recommended-analysis)
 - [Data Analysis Procedures](#data-analysis-procedures)
+- [Results and Findings](#results-and-findings)
 
 ### PROJECTS
 
@@ -80,7 +81,7 @@ weather? What % were due to the Airline/Carrier?
 - Providing insights, presenting informations and advice.
 - Creating outstanding reports for end user understanding, board of directors and shareholders.
 
-#### Results/Findings
+#### Results and Findings
 
 The analysis results are summarized as follows;
 1. The total number of On-Time flights recorded during the period was 3.69millio(63.47%) while the delayed flight records 2.13million and Flight cancelled record was 89.88k
