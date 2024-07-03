@@ -1,7 +1,7 @@
 # Portfolio
 My Data Analysis projects portfolio
 
-# DATA ANALYST 
+# DATA ANALYST  
 
 ## EDUCATION
 
