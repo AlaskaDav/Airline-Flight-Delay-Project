@@ -27,10 +27,11 @@ Data Analyst Intern @ Quantum Analytics
 - [Results and Findings](#results-and-findings)
 
 ### PROJECTS
+---
 
  AIRLINE FLIGHT DELAYS
 
-#### Description
+### Project Description
 
  This Record contains 5,000,000+ commercial airline flights in 2015, compiled for the U.S. DOT Air Travel Consumer Report. Each record represents a single flight, including the airline name, flight number, origin/destination airport and flight distance, as well as scheduled/actual departure and arrival times
 
@@ -107,7 +108,11 @@ The used of
 There was a difficulty in representing the insight from the data in periods, so, I had to create a Date table independently from the data and then built a relationship in the model table so as to present the report in a well organized periodic manner i.e Month reporting and Dayl)
 
 
+😄
+💻
 
-
-
+|Heading1|Heading2|Heading3|
+|--------|--------|--------|
+|Content1|Content2|Content3|
+|Excel |PowerQuerry |PowerBI |
 
