@@ -116,3 +116,14 @@ There was a difficulty in representing the insight from the data in periods, so,
 |Content1|Content2|Content3|
 |Excel |PowerQuerry |PowerBI |
 
+To include some interesting codes for SQL projects
+
+```sql
+Select * from Github
+where git = hub
+```
+
+`sql syntax codes`
+
+To bold text **FOLAGBADE DAVID**
+To Italic *FOLAGBADE DAVID*
