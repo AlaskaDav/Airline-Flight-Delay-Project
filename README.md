@@ -100,8 +100,11 @@ The analysis results are summarized as follows;
  -  Schedule of meetng for organization staffs.
 
 #### Recommendations
-
-The used of 
+Based on the analysis, I recommend the following actions:
+ - Improvement of airport infrastructure and managements
+ - Ensure the reliability of on-Time departure with good experience
+ - Implementing new technologies to optimize airport operations
+ - Improving the level of communication between airlines and airport operations 
 
 #### Limitations
 
