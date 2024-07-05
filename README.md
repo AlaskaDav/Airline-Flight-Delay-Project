@@ -12,7 +12,7 @@ Accounting Management, Bsc.
 Data Analyst Intern @ Quantum Analytics
 - Advanced Microsoft Excel (Excel functions and Formulas, Vlookup, Index-match, Pivot Table and etc)
 - Structured Query language(POSTGRESQL and MSSQL)
-- Visualization Tools ( PowerBI and Tablue)
+- Visualization Tools ( PowerBI and Tableau)
 - Problem Solving Techniques
 - Projects completion and Certification
 
